@@ -1,2 +1,2 @@
 # MIAD-course-work
-Курсовая работа по МИАД | КБ | ГрГУ | 5 семестр | 2025
+This repository contains a sinle .ipynb file of source code used in course work.
